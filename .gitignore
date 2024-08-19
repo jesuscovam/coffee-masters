@@ -1,0 +1,104 @@
+
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xcuserdatad
+*.xcscheme
+*.xcschemes
+*.xcmethods
+*.xcactivitylog
+*.xcplayground
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+/.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# SwiftUI preview files
+*.preview-provider.swift
+
+# App-generated files
+*.swp
+*.swo
+*.DS_Store
+*.vscode/
+
+# Derived data
+DerivedData/
+
+# Build artifacts
+build/
+*.ipa
+*.dSYM/
+*.xcarchive/
+
+# User-specific settings
+*.moved-aside
+*.swp
+*.swo
+*.lock
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Archives
+*.xcarchive
+*.xcworkspace/xcuserdata/
+
+# Local environment files
+.env
+
+# macOS system files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+*.png
+
+# IDE-specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Other
+*.sublime-workspace
+*.sublime-project
+*.orig
+*.rej
+*.diff
+*.patch
+*.tgz
+*.gz
+*.zip
+*.rar
+*.7z
+*.tar
+
+# Xcode-related logs
+*.xcuserdatad/
+*.xcuserstate
+*.xcscheme
+*.xcschemes
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
